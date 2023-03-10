@@ -17,7 +17,7 @@ const headerVariants = {
   },
   show: {
     padding: '14px 0 14px 0',
-    background: 'rgba(0,0,0,0.92)',
+    background: 'rgba(121,231,119,0.92)',
     transition: {
       type: 'spring',
     },
