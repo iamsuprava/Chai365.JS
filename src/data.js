@@ -8,6 +8,7 @@ import {
 } from 'react-icons/fa';
 // import images
 import AboutImg from '../src/assets/img/about/plate.png';
+import FranchiseImg from '../src/assets/img/about/plate2.png';
 import ModelWhiteImg from '../src/assets/img/model-white.png';
 import ModelBlackImg from '../src/assets/img/model-black.png';
 import MenuImg1 from '../src/assets/img/menu/1.png';
@@ -31,10 +32,10 @@ export const navData = [
 ];
 
 export const heroData = {
-  pretitle: 'Nothing brings together like',
+  pretitle: 'Your Pocket friendly business',
   title: 'Chai 365',
   subtitle:
-    'Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. ',
+    'Best low investment business | Earn upto 1 Lakh to 2 Lakh rupees profit by investing as low as you pay  ',
   btnText: 'Find out more',
 };
 
@@ -50,40 +51,49 @@ export const aboutData = {
   pretitle: 'our story',
   title: 'who we are',
   subtitle:
-    'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet consequatur, quasi minima molestiae ex exercitationem culpa quisquam architecto quaerat, iusto dolores labore, sapiente magni rem commodi aperiam ad dolorem neque ducimus. Placeat vel non quod quis pariatur a aperiam, aliquam adipisci voluptatum voluptatem sit cupiditate dolore natus beatae earum omnis.',
+    'Chai365, Indias tendiest Tea brand started-off from Bengaluru, is now in over 15+ Cities with 45+ Outlets expanded in a span of less than 6 months Tea is the most widely consumed prepared beverage in the world. And Chai365 is here to bring you the perfect version of Indias Favorite Drink.',
   btnText: 'find out more',
   image: AboutImg,
 };
 
+export const franchiseData = {
+  pretitle: 'our franchise',
+  title: 'why you should buy our franchise?',
+  subtitle:
+    'Chai365, Indias tendiest Tea brand started-off from Bengaluru, is now in over 15+ Cities with 45+ Outlets expanded in a span of less than 6 months Tea is the most widely consumed prepared beverage in the world. And Chai365 is here to bring you the perfect version of Indias Favorite Drink.',
+  btnText: 'find out more',
+  image: FranchiseImg,
+};
+
 export const menuData = {
-  title: 'delicious flavour of autumn',
+  title: 'delicious flavour of Chai365',
   subtitle: 'view all menu for tasty meal today',
   modelImg: ModelWhiteImg,
   btnText: 'view complete menu',
   menuItems: [
     {
       image: MenuImg1,
-      name: 'Chocolate Cake',
-      price: '$7.99',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Chai365',
+      price: 'TEA',
+      description: 'Elaichi Tea Masala Ginger Lemon Kesar elaichi',
     },
     {
       image: MenuImg2,
-      name: 'Veggie Burger',
-      price: '$9.49',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Chai365',
+      price: 'COFFEE',
+      description: 'instant filter cold classic caramel kitkat',
     },
     {
       image: MenuImg3,
-      name: 'King Burger',
-      price: '$8.50',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Chai365',
+      price: 'SMALL EATS',
+      description: 'bun mask butter bread jam biscuit',
     },
     {
       image: MenuImg4,
-      name: 'Mexican Burger',
-      price: '$9.99',
-      description: 'Class aptent taciti ciosqu litora torquent per',
+      name: 'Chai365',
+      price: 'HOT MILK',
+      description: 'plain turmeric badam hot chocolate',
     },
   ],
 };
@@ -91,10 +101,10 @@ export const menuData = {
 export const teamData = {
   pretitle: 'our team',
   title: 'meet our Founder',
-  sub1: ' Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci repudiandae enim ratione corrupti voluptatum suscipit distinctio dolor.',
-  sub2: 'Sequi exercitationem quae deserunt reiciendis nesciunt perferendis atque quisquam, odit facere! Minima esse reiciendis, magnam fugiat totam maxime consequatur perspiciatis voluptas consequuntur.',
-  name: 'sara peter',
-  occupation: 'executive chef',
+  sub1: ' "Inspiration to enable regular hardworking middle class people like us to dream big and provide the opportunity to approach, acquire and afford high end products to every individual." | Vishal',
+  sub2: '"We encourage & welcome passionate entrepreneurs to start their outlets across the globe but also act as catalyst on their journey towards healthy profits and success.  | Mahesh',
+  name: 'Vishal & Mahesh',
+  occupation: 'founders',
   signatureImg: SignatureImg,
   chefImg: ChefImg,
 };
@@ -129,7 +139,7 @@ export const testimonialData = {
 };
 
 export const reservationData = {
-  title: 'booking form',
+  title: 'Book Chai365 Franchise',
   subtitle:
     'Call (800) 123-4567 from 5AM - 11PM daily, or book online with OpenTable.Reservations required for parties of 6 or more.',
   modelImg: ModelBlackImg,
@@ -146,8 +156,8 @@ export const newsletterData = {
 export const footerData = {
   contact: {
     title: 'contact location',
-    address: '3784 patterson road, #8 new york, CA 69000',
-    phone: '(201)256-3689',
+    address: 'Chai365, S1 & S2, Spice Garden Compound Rd, Spice Garden Layout, Lakshminarayana Pura, Silver Springs Layout, Marathahalli,Bengaluru, Karnataka - 560037',
+    phone: '+91-7406077788',
   },
   hours: {
     title: 'working hours',
