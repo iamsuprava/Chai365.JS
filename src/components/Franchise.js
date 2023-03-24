@@ -17,7 +17,7 @@ const Franchise = () => {
           variants={staggerContainer}
           initial='hidden'
           whileInView={'show'}
-          viewport={{ once: false, amount: 0.6 }}
+          viewport={{ once: true, amount: 0.6 }}
           className='min-h-[620px] flex flex-col lg:flex-row items-center'
         >
           {/* text */}
