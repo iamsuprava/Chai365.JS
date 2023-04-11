@@ -107,7 +107,7 @@ const Header = () => {
                   isActive ? 'w-[90px] h-[90px]' : 'w-[107px] h-[107px]'
                 }`}
                 src={LogoWhite}
-                alt=''
+                alt='Chai 365'
               />
             </a>
           </motion.div>

@@ -53,7 +53,7 @@ const Reservation = () => {
             variants={fadeIn('up', 'tween', 0.6, 1.6)}
             className='flex justify-center mb-8'
           >
-            <img src={modelImg} alt='' />
+            <img src={modelImg} alt='Chai 365' />
           </motion.div>
         </motion.div>
         {/* form */}

@@ -37,7 +37,7 @@ const About = () => {
             variants={plateVariants}
             className='-mb-[300px] -mr-[186px] z-10'
           >
-            <img src={image} alt='' />
+            <img src={image} alt='Chai 365' />
           </motion.div>
         </motion.div>
       </div>

@@ -35,7 +35,7 @@ const Menu = () => {
             {subtitle}
           </motion.p>
           <motion.div variants={fadeIn('down', 'tween', 0.6, 1.6)}>
-            <img src={modelImg} alt='' />
+            <img src={modelImg} alt='Chai 365' />
           </motion.div>
         </motion.div>
       </div>
@@ -76,7 +76,7 @@ const Menu = () => {
                             : 'order-none'
                         } `}
                       >
-                        <img src={image} alt='' />
+                        <img src={image} alt='Chai 365' />
                       </div>
                       {/* text */}
                       <div className='bg-[#FFFFFF] flex-1 flex flex-col justify-center px-6 lg:p-12 lg:max-h-[250px] xl:max-h-max'>

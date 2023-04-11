@@ -43,7 +43,7 @@ const Team = () => {
               </div>
             </div>
             <div className='flex justify-center lg:justify-start mb-6 lg:mb-0'>
-              <img src={signatureImg} alt='' />
+              <img src={signatureImg} alt='Chai 365' />
             </div>
           </motion.div>
           {/* image */}
@@ -53,7 +53,7 @@ const Team = () => {
             whileInView={'show'}
             className='flex-1'
           >
-            <img src={chefImg} alt='' />
+            <img src={chefImg} alt='Chai 365' />
           </motion.div>
         </div>
       </div>

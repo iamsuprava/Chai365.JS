@@ -24,7 +24,7 @@ const Testimonial = () => {
           <h2 className='h2 text-white'>{title}</h2>
           <p className='text-white/70 capitalize mb-8'>{subtitle}</p>
           <div className='mb-12'>
-            <img src={modelImg} alt='' />
+            <img src={modelImg} alt='Chai 365' />
           </div>
         </motion.div>
 

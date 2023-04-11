@@ -22,7 +22,7 @@ const TestimonialCarousel = ({ slider }) => {
               {message}
             </div>
             <div className='max-w-[70px] lg:max-w-[100px] mx-auto mb-3'>
-              <img src={image} alt='' />
+              <img src={image} alt='Chai 365' />
             </div>
             <div className='font-bold text-[22px] text-accent'>{name}</div>
             <div className='font-medium italic'>{occupation}</div>
