@@ -27,7 +27,7 @@ export const navData = [
   { href: '/', name: 'menu' },
   { href: '/', name: 'team' },
   { href: '/', name: 'testimonials' },
-  { href: '/', name: 'book a table' },
+  // { href: '/', name: 'book a table' },
   { href: '/', name: 'contact' },
 ];
 
