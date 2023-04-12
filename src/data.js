@@ -111,29 +111,29 @@ export const teamData = {
 
 export const testimonialData = {
   title: "what client's say ",
-  subtitle: '1500+ statisfied clients',
+  subtitle: '500+ statisfied clients',
   modelImg: ModelWhiteImg,
   slider: [
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'Coming Soon.',
       image: Avatar1,
-      name: 'Rick Thompson',
-      occupation: 'CEO of Delightful',
+      name: 'Name',
+      occupation: 'Chai365',
     },
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'Coming Soon.',
       image: Avatar2,
-      name: 'John Doe',
-      occupation: 'CEO of Delightful',
+      name: 'Name',
+      occupation: 'Chai365',
     },
     {
       message:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quas ipsum eius voluptatibus. Quod ipsum ullam id facere a beatae incidunt eaque, veritatis architecto cum perferendis debitis tempora.',
+        'Coming Soon.',
       image: Avatar3,
-      name: 'Henry A.',
-      occupation: 'CEO of Delightful',
+      name: 'Name',
+      occupation: 'Chai365',
     },
   ],
 };
